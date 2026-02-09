@@ -1,6 +1,6 @@
 # Partners
 
-**Partners** is a high-reasoning 'Synergy Engine' designed for the 2026 hackathon season. It goes beyond simple skill matching to find long-term co-founders by analyzing technical complementary skills, project histories, and creative vibes.
+**Partners** is a high-reasoning 'Synergy Engine' . It goes beyond simple skill matching to find long-term co-founders by analyzing technical complementary skills, project histories, and creative vibes.
 
 ## Tech Stack
 
